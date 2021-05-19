@@ -1,7 +1,7 @@
 public class hello_world {
     public static void main(String [] args)
     {
-        System.out.println("ÄãºÃ£¬ÊÀ½ç£¡");
+        System.out.println("ä½ å¥½ï¼Œä¸–ç•Œï¼");
         int vacationDay;
         vacationDay=12;
         System.out.println(vacationDay);
@@ -9,10 +9,10 @@ public class hello_world {
 //        double salary;
         double salary=65000;
         long earthPopulation;
-        boolean done;//²¼¶ûÖµ
+        boolean done;//å¸ƒå°”å€¼
         System.out.println(salary);
         var aaa=10;
         System.out.println(aaa);
     }
 }
-//×¢ÊÍ
+//æ³¨é‡Š
